@@ -1,4 +1,4 @@
-# InDeEd WebGL - Basic Rendering
+# InDeEd WebGL - Advanced Rendering
 
 To run the project:
 1. Make sure you have NodeJS installed
