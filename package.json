@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack-dev-server --hot --progress --colors --host 0.0.0.0 --port 3000 --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/jasmine": "^2.6.0",
+    "jasmine": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-sourcemap-loader": "^0.3.7",
+    "karma-typescript": "^3.0.7",
+    "ts-loader": "^2.3.7",
+    "typescript": "^2.5.2",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.8.2"
+  },
+  "devDependencies": {
+    "karma-jasmine": "^1.1.0"
+  }
+}
